@@ -1,5 +1,5 @@
 function greetings(n) {
-    console.log('Nice to meet you, ' + in_name +'!');
+    console.log('Nice to meet you, ' + n +'!');
 }
 
 function check01(x) {
